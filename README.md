@@ -9,7 +9,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://tableau.com)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://microsoft.com/excel)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![PowerBI](https://img.shields.io/badge/PowerBI-F37626?style=for-the-badge&logo=PowerBI&logoColor=yellow)](https://app.powerbi.com/))
+[![PowerBI](https://img.shields.io/badge/PowerBI-F37626?style=for-the-badge&logo=PowerBI&logoColor=yellow)](https://app.powerbi.com/)
 
 ---
 
