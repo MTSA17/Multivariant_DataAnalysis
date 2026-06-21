@@ -238,16 +238,11 @@ DataAnalysis_DeepDive/
 │   └── SQL_Business_Analytics/         # Advanced SQL Analytics
 │
 ├── 📊 Business Intelligence Projects
-│   ├── TS_analysis/                    # Government Revenue Analysis
-│   ├── Atliq_sales_insights/           # Sales Intelligence Platform
-│   ├── london_bike_sharing/            # Urban Mobility Analytics
 │   ├── coffee_shop_insights/           # Retail Sales Optimization
-│   ├── Olympic_Legacy/                 # Sports Data Analysis
-│   └── customer-market_performance_report/  # BI Dashboard
 │
 └── 🔧 Data Engineering Projects
     ├── infringement-url-analyzer/      # Cybersecurity Analytics
-    └── Webscrapper_for_journals/       # Research Data Automation
+
 ```
 
 ---
@@ -273,7 +268,6 @@ Each project folder contains its own detailed README with:
 - Technical implementation details
 - Installation and setup instructions
 - Results and key findings
-- Live dashboard links (where applicable)
 
 ```bash
 # Clone the repository with all submodules
@@ -286,13 +280,6 @@ git submodule update --init --recursive
 ---
 
 <div align="center">
-
-### Let's Connect
-
-*Open to opportunities in Data Analytics, Business Intelligence, and Data Engineering roles*
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun-TR)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/varun.t.r.)
 
 ---
 
