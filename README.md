@@ -177,14 +177,6 @@ Each project folder contains its own detailed README with:
 - Installation and setup instructions
 - Results and key findings
 
-```bash
-# Clone the repository with all submodules
-git clone --recurse-submodules https://github.com/varun-TR/DataAnalysis_DeepDive.git
-
-# Or initialize submodules after cloning
-git submodule update --init --recursive
-```
-
 ---
 
 <div align="center">
